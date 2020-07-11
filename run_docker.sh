@@ -4,11 +4,11 @@
 
 
 # Build image and add a descriptive tag
-docker build -t ifeoma/ml-api .
+docker build -t ifeomau/ml-api .
 
 
 # List docker images
 docker images
 
 # Run flask app
-docker run -p 8000:80 ifeoma/ml-api
+docker run -p 8000:80 ifeomau/ml-api
