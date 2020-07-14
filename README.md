@@ -2,7 +2,7 @@
 
 Cloud DevOps Engineering Nanodegree project 4: Operationalize a Machine learning Microservice API using Docker and Kubernetes 
 
-[![CircleCI](https://circleci.com/gh/Ifyy/operationalize-machinelearning-service.svg?style=shield)](https://github.com/Ifyy/operationalize-machinelearning-service)
+[![CircleCI](https://circleci.com/gh/Ifyy/operationalize-machinelearning-service.svg?style=svg)](https://github.com/Ifyy/operationalize-machinelearning-service)
 
 ## Project Summary
 
